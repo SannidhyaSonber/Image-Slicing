@@ -1,0 +1,21 @@
+# Image Slicing Project Requirements
+# ====================================
+
+# Core dependencies
+numpy>=1.20.0          # Numerical computing
+Pillow>=8.0.0         # Image processing (optional, only if extracting from files)
+
+# Development and testing dependencies (optional)
+pytest>=6.0.0         # Testing framework
+pytest-cov>=2.12.0    # Code coverage
+
+# Documentation (optional)
+sphinx>=3.0.0         # Documentation generation
+sphinx-rtd-theme>=1.0.0
+
+# Optional: For performance optimization
+# scikit-image>=0.18.0  # Advanced image processing
+# opencv-python>=4.5.0  # Computer vision (alternative to PIL)
+
+# Python version requirement
+# Python 3.7+
