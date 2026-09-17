@@ -10,6 +10,9 @@ This project addresses the challenge of training machine learning models on rect
 - **Controlled Overlap**: 20-30% overlap between patches for contextual continuity
 - **Closed-form Equations**: Mathematical framework eliminates manual parameter tuning
 - **Production-Ready Code**: Tested, documented, and optimized for performance
+- **Kaggle Link**: www.kaggle.com/datasets/sannidhyakumarsonber/lunar-surface-satellite-images-isro-chandrayaan2
+[Kaggle Link](https://www.kaggle.com/datasets/sannidhyakumarsonber/lunar-surface-satellite-images-isro-chandrayaan2)
+
 
 ## 🎯 Key Features
 
